@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 📌 Connect with me:
+### 📌 Contact Me:
 
 📧 **Gmail:** [farheenbalouch137@gmail.com](mailto:farheenbalouch137@gmail.com)
 
